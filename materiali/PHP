@@ -1,0 +1,52 @@
+PHP
+
+STUDIARE:
+- Namespaces
+- SPL Classes
+- Api php 5.3 - 5.6
+- php binary -l check syntax
+- Ricorda: Classi Astratte possono definire un'interfaccia senza implementarne tutti i metodi
+- PHAR files
+- Ricorda che nelle closures vanno passati i parametri interni ( con use() )
+- Posso usare la parola "namespace" per identificare classi etc
+
+==================
+
+KO 1 - 2
+OK 2 - 3,4
+OK 3 - 2
+OK 4 - 4
+OK 5 - 1
+OK 6 - 4
+OK 7 - 1
+OK 8 - 2
+OK 9 - 1
+OK 10 - 3
+OK 11 - 4
+KO 12 - ????
+OK 13 - 4
+KO 14 - 4
+OK 15 - 1
+OK 16 - 2
+OK 17 - 1,2,3,4
+KO 18 - 1,2,4
+OK 19 - 4
+OK 20 - 3
+OK 21 - 3
+OK 22 - 1
+KO 23 - ????
+OK 24 - 4
+OK 25 - 1
+KO 26 - ????
+OK 27 - 2
+OK 28 - 1
+OK 29 - 2
+KO 30 - 4
+OK 31 - 3
+KO 32 - 3
+OK 33 - 1
+OK 34 - 2
+
+
+
+
